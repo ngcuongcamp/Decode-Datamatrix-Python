@@ -1,0 +1,86 @@
+2024-09-13 09:56:58,732 - ERROR - Camera Error
+2024-09-13 09:57:35,782 - ERROR - Camera Error
+2024-09-13 10:04:16,418 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:04:16,418 - INFO - --> Received scan signal from PLC
+2024-09-13 10:04:18,636 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:04:18,636 - INFO - --> Received scan signal from PLC
+2024-09-13 10:04:35,758 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:22,774 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:22,774 - INFO - --> Received scan signal from PLC: b'1111'
+2024-09-13 10:05:23,726 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:23,726 - INFO - --> Received scan signal from PLC: b'1111'
+2024-09-13 10:05:26,492 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:26,492 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-13 10:05:31,006 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:31,006 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-13 10:05:32,511 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:32,511 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-13 10:05:32,683 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:05:32,683 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-13 10:10:48,001 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:48,002 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-13 10:10:48,002 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-13 10:10:49,814 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:49,814 - INFO - --> Received scan signal from PLC: b'2'
+2024-09-13 10:10:52,488 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:52,488 - INFO - --> Received scan signal from PLC: b'??'
+2024-09-13 10:10:57,055 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:57,055 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:57,055 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:10:58,122 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:58,122 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:58,122 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:10:58,684 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:58,684 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:58,684 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:10:58,857 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:58,857 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:58,857 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:10:59,012 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:59,012 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:59,012 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:10:59,183 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:10:59,183 - INFO - --> Received scan signal from PLC: b'3'
+2024-09-13 10:10:59,183 - INFO - --> ------ RESET SIGNAL -------
+2024-09-13 10:16:12,599 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:12,599 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-13 10:16:12,600 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-13 10:16:14,354 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:14,354 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-13 10:16:14,354 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-13 10:16:15,026 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:15,026 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-13 10:16:15,026 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-13 10:16:16,512 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:16,512 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-13 10:16:16,512 - ERROR - --> ------ FAIL SFC SIGNAL -------
+2024-09-13 10:16:17,230 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:17,230 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-13 10:16:17,230 - ERROR - --> ------ FAIL SFC SIGNAL -------
+2024-09-13 10:16:17,742 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-13 10:16:17,742 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-13 10:16:17,743 - ERROR - --> ------ FAIL SFC SIGNAL -------

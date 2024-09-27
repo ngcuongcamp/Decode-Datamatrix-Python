@@ -1,0 +1,956 @@
+2024-09-14 11:51:40,571 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:51:40,571 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:51:40,572 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:51:46,577 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:51:46,577 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:51:46,578 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:51:47,454 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:51:47,454 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:51:47,454 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:53:28,162 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:53:28,162 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:53:28,163 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:53:29,858 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:53:29,858 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:53:29,859 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:53:31,451 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:53:31,452 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:53:31,452 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:54:06,381 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:54:06,382 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:54:06,382 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 11:54:08,284 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 11:54:08,284 - INFO - --> Received scan signal from PLC: b'1'
+2024-09-14 11:54:08,285 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:25:45,658 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:25:47,190 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:25:47,719 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:28:53,674 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:28:54,531 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:29:10,992 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:29:11,784 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:29:52,218 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:29:52,904 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:29:53,579 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:27,039 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:27,042 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:30:27,945 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:27,948 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:30:29,726 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:29,728 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:30:43,519 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:45,331 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:30:45,893 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:08,745 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:09,507 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:50,080 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:50,083 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:31:52,328 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:52,331 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:31:54,513 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:54,515 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:31:55,445 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:56,584 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:58,445 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:31:58,446 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:38,980 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:38,982 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:41,074 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:41,076 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:42,401 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:42,402 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:43,651 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:43,653 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:44,758 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:46,969 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:46,970 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:47,844 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:47,846 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:48,315 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:33:48,316 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:33:49,201 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:23,575 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:23,577 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:35:25,309 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:25,311 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:35:26,404 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:27,214 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:32,130 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:32,132 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:35:34,496 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:34,497 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:35:35,513 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:35:36,419 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:50,656 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:50,663 - INFO - Decoded data: 
+2024-09-14 13:38:51,736 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:51,742 - INFO - Decoded data: 
+2024-09-14 13:38:56,483 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:56,485 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:38:57,997 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:57,999 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:38:59,831 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:38:59,832 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:01,391 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:01,397 - INFO - Decoded data: 
+2024-09-14 13:39:02,374 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:02,381 - INFO - Decoded data: 
+2024-09-14 13:39:03,385 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:03,392 - INFO - Decoded data: 
+2024-09-14 13:39:34,316 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:34,318 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:35,113 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:35,115 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:36,320 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:36,322 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:37,986 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:37,988 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:39,111 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:39,113 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:43,384 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:43,385 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:44,230 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:44,232 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:39:44,851 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:39:44,856 - INFO - Decoded data: 
+2024-09-14 13:41:12,253 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:12,260 - INFO - Decoded data: 
+2024-09-14 13:41:13,875 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:13,882 - INFO - Decoded data: 
+2024-09-14 13:41:15,547 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:15,556 - INFO - Decoded data: 
+2024-09-14 13:41:16,795 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:16,803 - INFO - Decoded data: 
+2024-09-14 13:41:18,186 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:18,192 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:19,124 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:19,125 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:20,184 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:20,186 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:21,063 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:21,065 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:21,672 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:21,674 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:22,545 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:22,547 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:41:23,231 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:41:23,238 - INFO - Decoded data: 
+2024-09-14 13:42:03,563 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:42:03,566 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:42:05,201 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:42:05,203 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:42:07,639 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:42:07,641 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:42:08,376 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:42:08,379 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:25,093 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:25,095 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:26,561 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:26,563 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:27,453 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:27,455 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:28,140 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:28,150 - INFO - Decoded data: 
+2024-09-14 13:43:28,966 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:28,968 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:29,994 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:29,996 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:43:30,633 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:43:30,634 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:01,059 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:01,061 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:02,201 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:02,204 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:03,111 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:03,113 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:03,955 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:03,957 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:04,920 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:04,922 - ERROR - Error in scan action: object of type 'zxingcpp.Result' has no len()
+2024-09-14 13:44:05,845 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:44:05,852 - INFO - Decoded data: 
+2024-09-14 13:49:51,541 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:49:51,551 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:49:53,333 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:49:53,340 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:49:58,054 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:49:58,062 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:49:59,301 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:49:59,309 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:00,346 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:00,356 - INFO - Decoded data: 
+2024-09-14 13:50:02,541 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:02,551 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:03,121 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:03,128 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:03,729 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:03,738 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:04,165 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:04,173 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:04,617 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:04,627 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:05,053 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:05,063 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:05,475 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:05,485 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:05,962 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:05,970 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:50:06,397 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:50:06,405 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:53:55,254 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:53:55,262 - INFO - Decoded data: 
+2024-09-14 13:53:58,708 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:53:58,718 - INFO - Decoded data: 
+2024-09-14 13:53:59,393 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:53:59,401 - INFO - Decoded data: 
+2024-09-14 13:53:59,986 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:53:59,995 - INFO - Decoded data: 
+2024-09-14 13:54:01,265 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:54:01,275 - INFO - Decoded data: 
+2024-09-14 13:54:02,129 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:54:02,139 - INFO - Decoded data: 
+2024-09-14 13:54:05,503 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:54:05,511 - INFO - Decoded data: 
+2024-09-14 13:54:06,411 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:54:06,446 - INFO - Decoded data: 
+2024-09-14 13:55:05,682 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:55:05,689 - INFO - Decoded data: 
+2024-09-14 13:55:07,383 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:55:07,391 - INFO - Decoded data: 
+2024-09-14 13:55:08,147 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:55:08,155 - INFO - Decoded data: 
+2024-09-14 13:56:48,535 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:56:48,543 - INFO - Decoded data: 
+2024-09-14 13:56:49,547 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:56:49,555 - INFO - Decoded data: 
+2024-09-14 13:56:53,002 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:56:53,013 - INFO - Decoded data: 
+2024-09-14 13:57:15,745 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:57:15,757 - INFO - Decoded data: 
+2024-09-14 13:57:16,726 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:57:16,733 - INFO - Decoded data: 
+2024-09-14 13:57:20,768 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:57:20,775 - INFO - Decoded data: 
+2024-09-14 13:59:37,921 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:37,931 - INFO - Decoded data: 
+2024-09-14 13:59:38,140 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:38,149 - INFO - Decoded data: 
+2024-09-14 13:59:38,907 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:38,917 - INFO - Decoded data: 
+2024-09-14 13:59:45,900 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:45,910 - INFO - Decoded data: 
+2024-09-14 13:59:47,270 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:47,279 - INFO - Decoded data: 
+2024-09-14 13:59:49,035 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:49,044 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:49,780 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:49,788 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:50,356 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:50,365 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:51,046 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:51,053 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:51,621 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:51,629 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:52,171 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:52,180 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 13:59:57,783 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 13:59:57,790 - INFO - Decoded data: 
+2024-09-14 14:01:16,379 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:16,389 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:17,285 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:17,294 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:18,547 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:18,555 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:19,628 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:19,637 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:20,349 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:20,356 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:21,470 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:21,476 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:01:43,122 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:43,133 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:01:44,103 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:44,111 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:01:44,727 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:01:44,736 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:02:10,938 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:10,944 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:02:11,673 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:11,679 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:02:12,237 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:12,243 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:02:16,579 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:16,588 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:02:17,564 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:17,572 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:02:19,167 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:19,175 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:02:19,849 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:19,857 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:02:20,757 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:20,764 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:02:21,488 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:02:21,497 - ERROR - Error in scan action: WorkerSignals.data[str].emit(): argument 1 has unexpected type 'int'
+2024-09-14 14:03:04,482 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:04,490 - INFO - Decoded data: 2
+2024-09-14 14:03:05,337 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:05,344 - INFO - Decoded data: 2
+2024-09-14 14:03:06,103 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:06,109 - INFO - Decoded data: 2
+2024-09-14 14:03:06,843 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:06,851 - INFO - Decoded data: 2
+2024-09-14 14:03:07,840 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:07,849 - INFO - Decoded data: 2
+2024-09-14 14:03:12,462 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:12,470 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:03:13,137 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:13,146 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:03:13,808 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:13,815 - INFO - Decoded data: 2
+2024-09-14 14:03:14,431 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:14,447 - INFO - Decoded data: 2
+2024-09-14 14:03:27,928 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:27,942 - INFO - Decoded data: 2
+2024-09-14 14:03:28,924 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:28,943 - INFO - Decoded data: 2
+2024-09-14 14:03:29,813 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:29,829 - INFO - Decoded data: 2
+2024-09-14 14:03:31,423 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:31,441 - INFO - Decoded data: 2
+2024-09-14 14:03:34,092 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:34,139 - INFO - Decoded data: 2
+2024-09-14 14:03:55,815 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:55,831 - INFO - Decoded data: 2
+2024-09-14 14:03:57,013 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:57,031 - INFO - Decoded data: 2
+2024-09-14 14:03:57,702 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:57,718 - INFO - Decoded data: 2
+2024-09-14 14:03:58,281 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:58,300 - INFO - Decoded data: 2
+2024-09-14 14:03:58,937 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:58,951 - INFO - Decoded data: 2
+2024-09-14 14:03:59,437 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:03:59,453 - INFO - Decoded data: 2
+2024-09-14 14:03:59,982 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:00,001 - INFO - Decoded data: 2
+2024-09-14 14:04:00,480 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:00,497 - INFO - Decoded data: 2
+2024-09-14 14:04:00,949 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:00,964 - INFO - Decoded data: 2
+2024-09-14 14:04:03,154 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:03,168 - INFO - Decoded data: 2
+2024-09-14 14:04:03,590 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:03,606 - INFO - Decoded data: 2
+2024-09-14 14:04:04,057 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:04,072 - INFO - Decoded data: 2
+2024-09-14 14:04:04,508 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:04,522 - INFO - Decoded data: 2
+2024-09-14 14:04:04,928 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:04,945 - INFO - Decoded data: 2
+2024-09-14 14:04:05,536 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:05,553 - INFO - Decoded data: 2
+2024-09-14 14:04:05,974 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:05,991 - INFO - Decoded data: 2
+2024-09-14 14:04:08,722 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:08,737 - INFO - Decoded data: 2
+2024-09-14 14:04:09,021 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:09,036 - INFO - Decoded data: 2
+2024-09-14 14:04:09,365 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:09,383 - INFO - Decoded data: 2
+2024-09-14 14:04:15,516 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:15,524 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:16,421 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:16,428 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:17,152 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:17,161 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:17,730 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:17,740 - INFO - Decoded data: 2
+2024-09-14 14:04:22,804 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:22,812 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:23,539 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:23,547 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:23,963 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:23,971 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:24,227 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:24,235 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:04:24,446 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:04:24,454 - INFO - Decoded data: 2
+2024-09-14 14:05:08,362 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:05:08,370 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:05:09,310 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:05:09,320 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:05:09,921 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:05:09,928 - INFO - Decoded data: 2
+2024-09-14 14:06:43,829 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:06:43,839 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:00,850 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:00,859 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:37,356 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:37,365 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:50,963 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:50,974 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:52,216 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:52,223 - INFO - Decoded data: 2
+2024-09-14 14:07:55,520 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:55,527 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:56,254 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:56,262 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:56,896 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:56,904 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:57,520 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:57,527 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:58,110 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:58,117 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:07:58,781 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:07:58,792 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:26,397 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:09:26,405 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:26,405 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:30,349 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:09:30,358 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:30,358 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:31,486 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:09:31,494 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:31,494 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:09:32,486 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:09:32,493 - INFO - Decoded data: 2
+2024-09-14 14:09:32,493 - INFO - >>> Send data to SFC: 2
+2024-09-14 14:10:35,049 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:35,057 - INFO - Decoded data: 2
+2024-09-14 14:10:36,469 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:36,476 - INFO - Decoded data: 2
+2024-09-14 14:10:37,313 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:37,321 - INFO - Decoded data: 2
+2024-09-14 14:10:37,891 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:37,899 - INFO - Decoded data: 2
+2024-09-14 14:10:40,354 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:40,362 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:40,362 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:41,602 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:41,610 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:41,610 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:42,582 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:42,590 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:42,590 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:10:43,405 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:43,414 - INFO - Decoded data: 2
+2024-09-14 14:10:44,438 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:10:44,445 - INFO - Decoded data: 2
+2024-09-14 14:11:54,962 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:54,974 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:54,976 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:56,024 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:56,032 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:56,032 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:56,678 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:56,686 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:56,686 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:57,257 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:57,265 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:57,265 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:11:57,912 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:57,921 - INFO - Decoded data: 2
+2024-09-14 14:11:57,921 - ERROR - >>> Failed to scan
+2024-09-14 14:11:57,921 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:11:58,569 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:58,575 - INFO - Decoded data: 2
+2024-09-14 14:11:58,575 - ERROR - >>> Failed to scan
+2024-09-14 14:11:58,575 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:11:59,446 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:11:59,454 - INFO - Decoded data: 2
+2024-09-14 14:11:59,454 - ERROR - >>> Failed to scan
+2024-09-14 14:11:59,454 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:12:01,627 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:12:01,636 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:12:01,636 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:12:02,252 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:12:02,261 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:12:02,261 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:12:05,171 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:05,171 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:12:05,171 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:12:09,369 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:09,369 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:12:09,369 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:12:10,008 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:10,009 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:12:10,009 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:12:11,163 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:11,163 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-14 14:12:11,164 - ERROR - --> ------ FAIL SFC SIGNAL -------
+2024-09-14 14:12:11,804 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:11,804 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-14 14:12:11,804 - ERROR - --> ------ FAIL SFC SIGNAL -------
+2024-09-14 14:12:12,271 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:12:12,272 - INFO - --> Received scan signal from SFC: b'2'
+2024-09-14 14:12:12,272 - ERROR - --> ------ FAIL SFC SIGNAL -------
+2024-09-14 14:21:06,738 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:21:06,753 - ERROR - Error in scan action: WorkerSignals.notification[tuple].emit(): argument 1 has unexpected type 'str'
+2024-09-14 14:21:06,754 - INFO - Decoded data: 2
+2024-09-14 14:21:06,754 - ERROR - >>> Failed to scan
+2024-09-14 14:21:06,754 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:21:08,113 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:21:08,129 - ERROR - Error in scan action: WorkerSignals.notification[tuple].emit(): argument 1 has unexpected type 'str'
+2024-09-14 14:21:08,129 - INFO - Decoded data: 2
+2024-09-14 14:21:08,130 - ERROR - >>> Failed to scan
+2024-09-14 14:21:08,130 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:21:10,206 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:21:10,222 - ERROR - Error in scan action: WorkerSignals.notification[tuple].emit(): argument 1 has unexpected type 'str'
+2024-09-14 14:21:10,222 - INFO - Decoded data: 2
+2024-09-14 14:21:10,222 - ERROR - >>> Failed to scan
+2024-09-14 14:21:10,222 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:22:03,062 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:22:03,079 - INFO - Decoded data: 2
+2024-09-14 14:22:03,079 - ERROR - >>> Failed to scan
+2024-09-14 14:22:03,079 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:22:04,279 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:22:04,292 - INFO - Decoded data: 2
+2024-09-14 14:22:04,293 - ERROR - >>> Failed to scan
+2024-09-14 14:22:04,293 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:24:07,701 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:24:07,721 - INFO - Decoded data: 2
+2024-09-14 14:24:07,721 - ERROR - >>> Failed to scan
+2024-09-14 14:24:07,721 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:24:11,135 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:24:11,157 - INFO - Decoded data: 2
+2024-09-14 14:24:11,157 - ERROR - >>> Failed to scan
+2024-09-14 14:24:11,158 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:24:11,663 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:24:11,682 - INFO - Decoded data: 2
+2024-09-14 14:24:11,682 - ERROR - >>> Failed to scan
+2024-09-14 14:24:11,682 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:24:12,072 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:24:12,091 - INFO - Decoded data: 2
+2024-09-14 14:24:12,091 - ERROR - >>> Failed to scan
+2024-09-14 14:24:12,092 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:26:54,298 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:26:54,318 - INFO - Decoded data: 2
+2024-09-14 14:26:54,318 - ERROR - >>> Failed to scan
+2024-09-14 14:26:54,318 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:26:55,796 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:26:55,815 - INFO - Decoded data: 2
+2024-09-14 14:26:55,815 - ERROR - >>> Failed to scan
+2024-09-14 14:26:55,815 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:27:03,030 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:03,038 - INFO - Decoded data: 2
+2024-09-14 14:27:03,039 - ERROR - >>> Failed to scan
+2024-09-14 14:27:03,039 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:27:04,399 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:04,409 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:04,409 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:05,854 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:05,862 - INFO - Decoded data: 2
+2024-09-14 14:27:05,863 - ERROR - >>> Failed to scan
+2024-09-14 14:27:05,863 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:27:09,362 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:09,370 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:09,370 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:10,767 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:10,774 - INFO - Decoded data: 2
+2024-09-14 14:27:10,774 - ERROR - >>> Failed to scan
+2024-09-14 14:27:10,774 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:27:13,735 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:13,745 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:13,746 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:27:40,266 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:27:40,302 - INFO - Decoded data: 2
+2024-09-14 14:27:40,302 - ERROR - >>> Failed to scan
+2024-09-14 14:27:40,302 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:28:27,451 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:27,451 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:27,451 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:28,385 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:28,385 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:28,386 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:28,697 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:28,697 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:28,697 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:29,567 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:29,567 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:29,567 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:30,051 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:30,051 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:30,051 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:30,440 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:30,440 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:30,440 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:28:30,673 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:28:30,673 - INFO - --> Received scan signal from SFC: b'1'
+2024-09-14 14:28:30,673 - INFO - --> ------  PASS SFC SIGNAL -------
+2024-09-14 14:31:52,023 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:31:52,058 - INFO - Decoded data: 2
+2024-09-14 14:31:52,058 - ERROR - >>> Failed to scan
+2024-09-14 14:31:52,058 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:31:53,911 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:31:53,945 - INFO - Decoded data: 2
+2024-09-14 14:31:53,945 - ERROR - >>> Failed to scan
+2024-09-14 14:31:53,945 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:31:55,188 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:31:55,221 - INFO - Decoded data: 2
+2024-09-14 14:31:55,222 - ERROR - >>> Failed to scan
+2024-09-14 14:31:55,222 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:31:56,342 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:31:56,375 - INFO - Decoded data: 2
+2024-09-14 14:31:56,376 - ERROR - >>> Failed to scan
+2024-09-14 14:31:56,376 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:32:00,696 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:00,704 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:00,705 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:01,947 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:01,957 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:01,957 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:02,746 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:02,756 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:02,757 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:03,478 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:03,486 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:03,487 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:17,047 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:17,056 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:17,056 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:18,075 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:18,083 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:18,084 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:18,885 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:18,899 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:18,899 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:25,319 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:25,327 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:25,328 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:26,339 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:32:26,347 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:26,347 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:32:28,648 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:28,648 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:32:28,648 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:32:29,802 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:29,802 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-14 14:32:29,803 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-14 14:32:30,441 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:30,442 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:32:30,442 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:32:31,039 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:31,039 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-14 14:32:31,039 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-14 14:32:31,508 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:31,508 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:32:31,508 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:32:32,038 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:32,038 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-14 14:32:32,038 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-14 14:32:32,395 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:32:32,396 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:32:32,396 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:33:57,652 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:00,085 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:34:00,120 - INFO - Decoded data: 2
+2024-09-14 14:34:00,120 - ERROR - >>> Failed to scan
+2024-09-14 14:34:00,120 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:34:01,903 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:02,073 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:02,261 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:06,783 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:06,953 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:07,110 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:07,297 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:20,304 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:20,851 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:21,087 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:34:27,332 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:35:27,513 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:35:29,724 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:29,755 - INFO - Decoded data: 2
+2024-09-14 14:35:29,755 - ERROR - >>> Failed to scan
+2024-09-14 14:35:29,755 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:35:35,186 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:35,217 - INFO - Decoded data: 2
+2024-09-14 14:35:35,217 - ERROR - >>> Failed to scan
+2024-09-14 14:35:35,218 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:35:37,390 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:37,423 - INFO - Decoded data: 2
+2024-09-14 14:35:37,423 - ERROR - >>> Failed to scan
+2024-09-14 14:35:37,423 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:35:43,786 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:43,794 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:43,794 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:45,189 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:45,196 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:45,197 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:48,845 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:35:48,845 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:35:48,845 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:35:52,679 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:35:52,679 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-14 14:35:52,679 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-14 14:35:53,962 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:35:53,962 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:35:53,962 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:35:55,462 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:35:55,470 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:55,470 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:35:56,791 - INFO - --> ------ RESET SIGNAL -------
+2024-09-14 14:38:53,685 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:38:53,718 - INFO - Decoded data: 2
+2024-09-14 14:38:53,719 - ERROR - >>> Failed to scan
+2024-09-14 14:38:53,719 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:38:56,855 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:38:56,887 - INFO - Decoded data: 2
+2024-09-14 14:38:56,887 - ERROR - >>> Failed to scan
+2024-09-14 14:38:56,887 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:38:58,007 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:38:58,043 - INFO - Decoded data: 2
+2024-09-14 14:38:58,043 - ERROR - >>> Failed to scan
+2024-09-14 14:38:58,043 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:38:58,617 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:38:58,651 - INFO - Decoded data: 2
+2024-09-14 14:38:58,651 - ERROR - >>> Failed to scan
+2024-09-14 14:38:58,652 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:38:59,117 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:38:59,151 - INFO - Decoded data: 2
+2024-09-14 14:38:59,152 - ERROR - >>> Failed to scan
+2024-09-14 14:38:59,152 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:03,180 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:03,190 - INFO - Decoded data: 2
+2024-09-14 14:39:03,190 - ERROR - >>> Failed to scan
+2024-09-14 14:39:03,191 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:04,179 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:04,188 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:04,188 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:05,457 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:05,466 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:05,467 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:08,500 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:08,500 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:08,500 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:10,051 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:10,059 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:10,060 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:10,985 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:10,985 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:10,985 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:11,672 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:11,683 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:11,684 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:39:12,642 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:12,642 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:12,642 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:13,394 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:13,401 - INFO - Decoded data: 2
+2024-09-14 14:39:13,402 - ERROR - >>> Failed to scan
+2024-09-14 14:39:13,402 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:16,221 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:16,221 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:16,222 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:17,452 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:17,462 - INFO - Decoded data: 2
+2024-09-14 14:39:17,463 - ERROR - >>> Failed to scan
+2024-09-14 14:39:17,463 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:21,107 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:21,107 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:21,107 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:22,337 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:22,344 - INFO - Decoded data: 2
+2024-09-14 14:39:22,344 - ERROR - >>> Failed to scan
+2024-09-14 14:39:22,344 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:24,869 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:24,869 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:24,870 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:25,991 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:25,999 - INFO - Decoded data: 2
+2024-09-14 14:39:25,999 - ERROR - >>> Failed to scan
+2024-09-14 14:39:25,999 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:29,670 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:29,670 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-14 14:39:29,670 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-14 14:39:31,064 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:39:31,071 - INFO - Decoded data: 2
+2024-09-14 14:39:31,071 - ERROR - >>> Failed to scan
+2024-09-14 14:39:31,071 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:39:32,375 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-14 14:39:32,375 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-14 14:39:32,376 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-14 14:40:37,994 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:40:59,936 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:40:59,945 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:40:59,945 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:01,287 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:01,296 - INFO - Decoded data: 2
+2024-09-14 14:41:01,296 - ERROR - >>> Failed to scan
+2024-09-14 14:41:01,296 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:41:04,348 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:04,356 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:04,356 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:10,263 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:10,271 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:10,272 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:11,355 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:11,364 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:11,364 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:13,105 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:13,114 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:13,114 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:13,748 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:13,758 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:13,758 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:15,358 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:41:15,367 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:41:15,367 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:07,770 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:07,779 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:07,779 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:09,664 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:09,672 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:09,673 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:11,574 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:11,582 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:11,582 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:13,833 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:13,841 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:13,841 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:14,944 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:14,952 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:14,953 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:16,304 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:16,312 - INFO - Decoded data: 2
+2024-09-14 14:47:16,312 - ERROR - >>> Failed to scan
+2024-09-14 14:47:16,313 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:47:17,581 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:17,590 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:17,591 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:18,427 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:18,434 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:18,435 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 14:47:19,180 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:47:19,188 - INFO - Decoded data: 2
+2024-09-14 14:47:19,189 - ERROR - >>> Failed to scan
+2024-09-14 14:47:19,189 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:35,892 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:35,995 - INFO - Decoded data: 2
+2024-09-14 14:50:35,996 - ERROR - >>> Failed to scan
+2024-09-14 14:50:35,996 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:37,373 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:37,470 - INFO - Decoded data: 2
+2024-09-14 14:50:37,471 - ERROR - >>> Failed to scan
+2024-09-14 14:50:37,471 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:38,390 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:38,480 - INFO - Decoded data: 2
+2024-09-14 14:50:38,480 - ERROR - >>> Failed to scan
+2024-09-14 14:50:38,480 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:39,231 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:39,319 - INFO - Decoded data: 2
+2024-09-14 14:50:39,319 - ERROR - >>> Failed to scan
+2024-09-14 14:50:39,319 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:40,074 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:40,161 - INFO - Decoded data: 2
+2024-09-14 14:50:40,162 - ERROR - >>> Failed to scan
+2024-09-14 14:50:40,162 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:50:40,949 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:50:41,037 - INFO - Decoded data: 2
+2024-09-14 14:50:41,038 - ERROR - >>> Failed to scan
+2024-09-14 14:50:41,038 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:52:28,795 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:52:28,910 - INFO - Decoded data: 2
+2024-09-14 14:52:28,910 - ERROR - >>> Failed to scan
+2024-09-14 14:52:28,911 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:52:30,633 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:52:30,738 - INFO - Decoded data: 2
+2024-09-14 14:52:30,739 - ERROR - >>> Failed to scan
+2024-09-14 14:52:30,739 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:52:31,636 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:52:31,739 - INFO - Decoded data: 2
+2024-09-14 14:52:31,739 - ERROR - >>> Failed to scan
+2024-09-14 14:52:31,740 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:53:00,346 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:53:15,442 - INFO - Decoded data: 2
+2024-09-14 14:53:15,443 - ERROR - >>> Failed to scan
+2024-09-14 14:53:15,443 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:58:55,718 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:58:55,816 - INFO - Decoded data: 2
+2024-09-14 14:58:55,816 - ERROR - >>> Failed to scan
+2024-09-14 14:58:55,816 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:58:56,767 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:58:56,865 - INFO - Decoded data: 2
+2024-09-14 14:58:56,865 - ERROR - >>> Failed to scan
+2024-09-14 14:58:56,866 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:58:57,703 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:58:57,802 - INFO - Decoded data: 2
+2024-09-14 14:58:57,802 - ERROR - >>> Failed to scan
+2024-09-14 14:58:57,802 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:58:58,654 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:58:58,761 - INFO - Decoded data: 2
+2024-09-14 14:58:58,761 - ERROR - >>> Failed to scan
+2024-09-14 14:58:58,762 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:58:59,510 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:58:59,618 - INFO - Decoded data: 2
+2024-09-14 14:58:59,618 - ERROR - >>> Failed to scan
+2024-09-14 14:58:59,618 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:59:00,229 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:59:00,330 - INFO - Decoded data: 2
+2024-09-14 14:59:00,331 - ERROR - >>> Failed to scan
+2024-09-14 14:59:00,331 - INFO - >>> Send data to PLC: 2
+2024-09-14 14:59:34,905 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 14:59:51,834 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 14:59:51,834 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 15:00:02,502 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:00:13,423 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 15:00:13,423 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 15:01:49,247 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:02:02,611 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:02:10,060 - INFO - Decoded data: 31v58
+2024-09-14 15:02:10,061 - INFO - >>> Send data to SFC: 31v58
+2024-09-14 15:02:16,192 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:02:48,610 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:02:58,815 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-14 15:02:58,816 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-14 15:31:38,985 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:31:41,842 - ERROR - Error in scan action: 'MyApplication' object has no attribute 'frame1'
+2024-09-14 15:31:41,842 - INFO - Decoded data: 2
+2024-09-14 15:31:41,842 - ERROR - >>> Failed to scan
+2024-09-14 15:31:41,843 - INFO - >>> Send data to PLC: 2
+2024-09-14 15:32:20,268 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:32:23,039 - INFO - Decoded data: 2
+2024-09-14 15:32:23,039 - ERROR - >>> Failed to scan
+2024-09-14 15:32:23,040 - INFO - >>> Send data to PLC: 2
+2024-09-14 15:38:32,537 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-14 15:38:38,455 - INFO - Decoded data: 2
+2024-09-14 15:38:38,456 - ERROR - >>> Failed to scan
+2024-09-14 15:38:38,456 - INFO - >>> Send data to PLC: 2

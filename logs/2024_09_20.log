@@ -1,0 +1,41 @@
+2024-09-20 08:11:54,759 - ERROR - Camera Error
+2024-09-20 08:12:21,361 - INFO - Open file Update.exe!
+2024-09-20 10:03:40,605 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:40,605 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-20 10:03:40,605 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-20 10:03:45,471 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:45,471 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-20 10:03:45,471 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-20 10:03:51,106 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:51,106 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-20 10:03:51,107 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-20 10:03:51,963 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:51,963 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-20 10:03:51,964 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-20 10:03:52,632 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:52,632 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-20 10:03:52,633 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-20 10:03:53,487 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:03:53,487 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-20 10:03:53,488 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-20 10:14:39,809 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:14:39,810 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-20 10:14:39,810 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-20 10:14:41,186 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:14:41,186 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-20 10:14:41,186 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-20 10:15:08,674 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-20 10:15:08,713 - INFO - Decoded data: GH90-68470PDOBZW0927L2
+2024-09-20 10:15:08,714 - INFO - >>> Send data to SFC: GH90-68470PDOBZW0927L2
+2024-09-20 10:15:16,692 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-09-20 10:15:16,692 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-20 10:15:16,692 - INFO - >>> PASS SFC SIGNAL -------

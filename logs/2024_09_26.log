@@ -1,0 +1,298 @@
+2024-09-26 08:18:12,455 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 08:18:12,661 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 08:18:12,661 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 08:18:14,138 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 08:18:14,344 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 08:18:14,345 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 08:18:16,756 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 08:18:16,967 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 08:18:16,968 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:24:03,903 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:24:04,372 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:24:04,373 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:24:06,418 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:24:06,638 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:24:06,638 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:24:08,057 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:24:08,278 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:24:08,279 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:24:09,059 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:24:09,276 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:24:09,277 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:24:10,507 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:24:10,733 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:24:10,734 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:25:23,845 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:25:25,303 - INFO - Decoded data: 2
+2024-09-26 13:25:25,303 - ERROR - >>> Failed to scan
+2024-09-26 13:25:25,304 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:25:42,235 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:25:43,733 - INFO - Decoded data: 2
+2024-09-26 13:25:43,733 - ERROR - >>> Failed to scan
+2024-09-26 13:25:43,733 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:25:44,879 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:25:46,345 - INFO - Decoded data: 2
+2024-09-26 13:25:46,346 - ERROR - >>> Failed to scan
+2024-09-26 13:25:46,346 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:25:46,943 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:25:48,392 - INFO - Decoded data: 2
+2024-09-26 13:25:48,392 - ERROR - >>> Failed to scan
+2024-09-26 13:25:48,392 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:26:51,528 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:26:52,956 - INFO - Decoded data: 2
+2024-09-26 13:26:52,956 - ERROR - >>> Failed to scan
+2024-09-26 13:26:52,957 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:27:23,020 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:27:23,226 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:27:23,227 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:27:26,314 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:27:26,526 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:27:26,526 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:27:59,149 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:27:59,374 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:27:59,375 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:28:00,663 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:28:00,885 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:28:00,886 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:28:01,614 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:28:01,831 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:28:01,831 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:33:20,775 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:33:20,983 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:33:20,983 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:33:21,946 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:33:22,153 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:33:22,153 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:33:22,775 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:33:22,980 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:33:22,980 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:33:23,463 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:33:23,672 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:33:23,672 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:33:40,740 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:33:40,960 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:33:40,961 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:35:10,793 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:35:11,014 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:35:11,015 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:35:50,618 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:35:54,593 - INFO - Decoded data: 2
+2024-09-26 13:35:54,593 - ERROR - >>> Failed to scan
+2024-09-26 13:35:54,594 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:35:58,221 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:36:02,149 - INFO - Decoded data: 2
+2024-09-26 13:36:02,149 - ERROR - >>> Failed to scan
+2024-09-26 13:36:02,149 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:36:59,833 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:37:44,276 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:37:48,176 - INFO - Decoded data: 2
+2024-09-26 13:37:48,176 - ERROR - >>> Failed to scan
+2024-09-26 13:37:48,176 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:39:34,647 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:39:38,574 - INFO - Decoded data: 2
+2024-09-26 13:39:38,575 - ERROR - >>> Failed to scan
+2024-09-26 13:39:38,575 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:40:21,597 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:40:25,531 - INFO - Decoded data: 2
+2024-09-26 13:40:25,531 - ERROR - >>> Failed to scan
+2024-09-26 13:40:25,531 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:41:23,786 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:41:24,008 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:41:24,008 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:41:49,427 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:41:53,341 - INFO - Decoded data: 2
+2024-09-26 13:41:53,341 - ERROR - >>> Failed to scan
+2024-09-26 13:41:53,342 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:46:43,101 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:46:43,316 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:46:43,316 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:52:50,360 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:52:50,583 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:52:50,583 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:54:11,231 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:54:11,444 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:54:11,445 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:54:34,924 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:54:35,313 - INFO - Decoded data: 2
+2024-09-26 13:54:35,313 - ERROR - >>> Failed to scan
+2024-09-26 13:54:35,313 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:56:31,704 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:32,057 - INFO - Decoded data: 2
+2024-09-26 13:56:32,057 - ERROR - >>> Failed to scan
+2024-09-26 13:56:32,057 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:56:32,998 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:33,359 - INFO - Decoded data: 2
+2024-09-26 13:56:33,359 - ERROR - >>> Failed to scan
+2024-09-26 13:56:33,359 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:56:34,159 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:34,519 - INFO - Decoded data: 2
+2024-09-26 13:56:34,519 - ERROR - >>> Failed to scan
+2024-09-26 13:56:34,519 - INFO - >>> Send data to PLC: 2
+2024-09-26 13:56:53,438 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:53,652 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:56:53,653 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:56:55,984 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:56,192 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:56:56,192 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:56:57,483 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:56:57,693 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 13:56:57,693 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 13:58:51,771 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 13:58:52,147 - INFO - Decoded data: 2
+2024-09-26 13:58:52,147 - ERROR - >>> Failed to scan
+2024-09-26 13:58:52,148 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:00:01,025 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:00:01,403 - INFO - Decoded data: 2
+2024-09-26 14:00:01,404 - ERROR - >>> Failed to scan
+2024-09-26 14:00:01,405 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:00:05,972 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:00:06,343 - INFO - Decoded data: 2
+2024-09-26 14:00:06,344 - ERROR - >>> Failed to scan
+2024-09-26 14:00:06,344 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:04,165 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:04,546 - ERROR - >>> Failed to scan
+2024-09-26 14:02:04,546 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:05,838 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:06,265 - ERROR - >>> Failed to scan
+2024-09-26 14:02:06,265 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:07,678 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:08,053 - ERROR - >>> Failed to scan
+2024-09-26 14:02:08,054 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:25,282 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:25,731 - ERROR - >>> Failed to scan
+2024-09-26 14:02:25,731 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:27,591 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:27,966 - ERROR - >>> Failed to scan
+2024-09-26 14:02:27,966 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:02:56,725 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:56,952 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:02:56,952 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:02:58,316 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:58,534 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:02:58,535 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:02:59,567 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:02:59,790 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:02:59,790 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:03:01,980 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:03:02,200 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:03:02,200 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:03:13,283 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:03:14,790 - INFO - Decoded data: 2
+2024-09-26 14:03:14,790 - ERROR - >>> Failed to scan
+2024-09-26 14:03:14,790 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:04:07,370 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:04:08,926 - INFO - Decoded data: 2
+2024-09-26 14:04:08,926 - ERROR - >>> Failed to scan
+2024-09-26 14:04:08,926 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:04:10,267 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:04:11,759 - INFO - Decoded data: 2
+2024-09-26 14:04:11,759 - ERROR - >>> Failed to scan
+2024-09-26 14:04:11,759 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:04:12,506 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:04:14,004 - INFO - Decoded data: 2
+2024-09-26 14:04:14,004 - ERROR - >>> Failed to scan
+2024-09-26 14:04:14,004 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:04:20,820 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:04:22,400 - INFO - Decoded data: 2
+2024-09-26 14:04:22,400 - ERROR - >>> Failed to scan
+2024-09-26 14:04:22,400 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:04:44,481 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:04:45,916 - INFO - Decoded data: 2
+2024-09-26 14:04:45,916 - ERROR - >>> Failed to scan
+2024-09-26 14:04:45,916 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:05:01,288 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:05:02,722 - ERROR - >>> Failed to scan
+2024-09-26 14:05:02,722 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:05:26,233 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:05:27,661 - ERROR - >>> Failed to scan
+2024-09-26 14:05:27,661 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:07:10,756 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:07:45,511 - ERROR - >>> Failed to scan
+2024-09-26 14:07:45,511 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:08:12,182 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:08:13,624 - ERROR - >>> Failed to scan
+2024-09-26 14:08:13,624 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:08:15,822 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:08:17,289 - ERROR - >>> Failed to scan
+2024-09-26 14:08:17,289 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:08:18,075 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:08:19,512 - ERROR - >>> Failed to scan
+2024-09-26 14:08:19,512 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:11:42,561 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:11:43,992 - ERROR - >>> Failed to scan
+2024-09-26 14:11:43,992 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:11:45,479 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:11:46,906 - ERROR - >>> Failed to scan
+2024-09-26 14:11:46,906 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:11:48,452 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:11:49,886 - ERROR - >>> Failed to scan
+2024-09-26 14:11:49,887 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:12:33,393 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:12:33,612 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:12:35,297 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:12:35,521 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:13:08,282 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:13:12,254 - ERROR - >>> Failed to scan
+2024-09-26 14:13:12,255 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:13:32,534 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:13:41,938 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:13:45,504 - ERROR - >>> Failed to scan
+2024-09-26 14:13:45,504 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:14:48,639 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:14:48,716 - ERROR - Error in scan action: 'NoneType' object is not subscriptable
+2024-09-26 14:14:51,702 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:14:51,707 - ERROR - Error in scan action: 'NoneType' object is not subscriptable
+2024-09-26 14:15:14,608 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:15:18,144 - ERROR - >>> Failed to scan
+2024-09-26 14:15:18,144 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:15:43,213 - ERROR - Camera Error
+2024-09-26 14:15:57,388 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:15:57,389 - ERROR - Error in scan action: 'NoneType' object is not subscriptable
+2024-09-26 14:16:15,256 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:16:15,461 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:16:15,462 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:16:23,289 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:16:23,496 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:16:23,496 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:16:26,400 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:16:26,608 - INFO - Decoded data: H2CH7P007NK0000JJR
+2024-09-26 14:16:26,609 - INFO - >>> Send data to SFC: H2CH7P007NK0000JJR
+2024-09-26 14:17:30,137 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:17:33,701 - ERROR - >>> Failed to scan
+2024-09-26 14:17:33,701 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:19:10,039 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:19:10,276 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:19:14,514 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:19:14,743 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:26:13,765 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:26:13,990 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:26:36,039 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:26:36,256 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:26:54,489 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:26:58,124 - ERROR - >>> Failed to scan
+2024-09-26 14:26:58,124 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:28:12,922 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:29:01,762 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:29:38,228 - ERROR - >>> Failed to scan
+2024-09-26 14:29:38,228 - INFO - >>> Send data to PLC: 2
+2024-09-26 14:30:03,705 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:30:10,406 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:30:47,358 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 14:30:54,048 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 14:31:55,110 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:09,059 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:13,828 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:17,680 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:22,154 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:44,205 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:44,873 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:46,554 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:47,161 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:47,837 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:48,445 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:49,068 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:49,665 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:50,104 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:50,719 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-26 16:47:51,178 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-26 16:47:51,794 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR

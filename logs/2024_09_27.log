@@ -1,0 +1,294 @@
+2024-09-27 09:16:32,577 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:16:33,643 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:16:33,643 - INFO - PASS SCAN
+2024-09-27 09:16:35,185 - ERROR - TIMEOUT SFC
+2024-09-27 09:16:35,186 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:16:41,257 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:16:42,448 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:16:42,459 - INFO - PASS SCAN
+2024-09-27 09:16:42,663 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:16:43,630 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-27 09:16:43,630 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:16:44,463 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:16:44,463 - INFO - PASS SCAN
+2024-09-27 09:16:44,532 - INFO - >>> Received scan signal from SFC: b'H'
+2024-09-27 09:16:44,533 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-27 09:16:44,533 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-27 09:16:44,536 - INFO - >>> Received scan signal from SFC: b'CH'
+2024-09-27 09:16:44,538 - INFO - >>> Received scan signal from SFC: b'7P0'
+2024-09-27 09:16:44,540 - INFO - >>> Received scan signal from SFC: b'0'
+2024-09-27 09:16:44,543 - INFO - >>> Received scan signal from SFC: b'8'
+2024-09-27 09:16:44,546 - INFO - >>> Received scan signal from SFC: b'1L0'
+2024-09-27 09:16:44,547 - INFO - >>> Received scan signal from SFC: b'00'
+2024-09-27 09:16:44,549 - INFO - >>> Received scan signal from SFC: b'0JJR'
+2024-09-27 09:16:44,552 - INFO - >>> Received scan signal from SFC: b'\r\n'
+2024-09-27 09:16:54,230 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:16:55,265 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:16:55,265 - INFO - PASS SCAN
+2024-09-27 09:16:56,226 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-27 09:16:56,226 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:25:13,833 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:25:15,269 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:25:15,275 - INFO - PASS SCAN
+2024-09-27 09:25:16,562 - ERROR - TIMEOUT SFC
+2024-09-27 09:25:16,562 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:25:19,070 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:25:20,289 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:25:20,289 - INFO - PASS SCAN
+2024-09-27 09:25:21,669 - ERROR - TIMEOUT SFC
+2024-09-27 09:25:21,669 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:25:21,677 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:25:22,515 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:25:22,515 - INFO - PASS SCAN
+2024-09-27 09:25:23,787 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:25:24,291 - ERROR - TIMEOUT SFC
+2024-09-27 09:25:24,291 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:25:25,295 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:25:25,313 - INFO - PASS SCAN
+2024-09-27 09:25:26,234 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:25:26,797 - ERROR - TIMEOUT SFC
+2024-09-27 09:25:26,797 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:25:27,740 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:25:27,752 - INFO - PASS SCAN
+2024-09-27 09:25:29,143 - ERROR - TIMEOUT SFC
+2024-09-27 09:25:29,143 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:35:37,955 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:35:39,562 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:35:39,562 - INFO - PASS SCAN
+2024-09-27 09:35:40,949 - ERROR - TIMEOUT SFC
+2024-09-27 09:35:40,949 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:35:41,977 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:35:43,074 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:35:43,074 - INFO - PASS SCAN
+2024-09-27 09:35:43,147 - INFO - >>> Received scan signal from SFC: b'H2'
+2024-09-27 09:35:43,148 - INFO - >>> Received scan signal from SFC: b'C'
+2024-09-27 09:35:43,149 - INFO - >>> Received scan signal from SFC: b'H7P'
+2024-09-27 09:35:43,154 - INFO - >>> Received scan signal from SFC: b'0081L00'
+2024-09-27 09:35:43,159 - INFO - >>> Received scan signal from SFC: b'00JJR\r\n'
+2024-09-27 09:36:16,919 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:36:18,134 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:36:18,146 - INFO - PASS SCAN
+2024-09-27 09:36:19,526 - ERROR - TIMEOUT SFC
+2024-09-27 09:36:19,526 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:36:21,334 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:36:22,506 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:36:22,529 - INFO - PASS SCAN
+2024-09-27 09:36:23,109 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-27 09:36:23,109 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:36:28,144 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:36:29,365 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:36:29,400 - INFO - PASS SCAN
+2024-09-27 09:36:30,751 - ERROR - TIMEOUT SFC
+2024-09-27 09:36:30,752 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:36:34,854 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:36:36,005 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:36:36,011 - INFO - PASS SCAN
+2024-09-27 09:36:36,110 - INFO - >>> Received scan signal from SFC: b'H2'
+2024-09-27 09:36:36,112 - INFO - >>> Received scan signal from SFC: b'CH7P'
+2024-09-27 09:36:36,126 - INFO - >>> Received scan signal from SFC: b'0'
+2024-09-27 09:36:36,127 - INFO - >>> Received scan signal from SFC: b'0'
+2024-09-27 09:36:36,129 - INFO - >>> Received scan signal from SFC: b'8'
+2024-09-27 09:36:36,131 - INFO - >>> Received scan signal from SFC: b'1'
+2024-09-27 09:36:36,131 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:36:36,134 - INFO - >>> Received scan signal from SFC: b'L0'
+2024-09-27 09:36:36,136 - INFO - >>> Received scan signal from SFC: b'000J'
+2024-09-27 09:36:36,139 - INFO - >>> Received scan signal from SFC: b'JR'
+2024-09-27 09:36:36,143 - INFO - >>> Received scan signal from SFC: b'\r\n'
+2024-09-27 09:36:37,993 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:36:39,107 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:36:39,107 - INFO - PASS SCAN
+2024-09-27 09:36:39,150 - INFO - >>> Received scan signal from SFC: b'H'
+2024-09-27 09:36:39,152 - INFO - >>> Received scan signal from SFC: b'2'
+2024-09-27 09:36:39,152 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-27 09:36:39,154 - INFO - >>> Received scan signal from SFC: b'C'
+2024-09-27 09:36:39,156 - INFO - >>> Received scan signal from SFC: b'H'
+2024-09-27 09:36:39,159 - INFO - >>> Received scan signal from SFC: b'7P008'
+2024-09-27 09:36:39,163 - INFO - >>> Received scan signal from SFC: b'1L000'
+2024-09-27 09:36:39,166 - INFO - >>> Received scan signal from SFC: b'0JJR\r\n'
+2024-09-27 09:38:15,088 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:16,071 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:16,083 - INFO - PASS SCAN
+2024-09-27 09:38:17,699 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:17,699 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:19,616 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:20,813 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:20,813 - INFO - PASS SCAN
+2024-09-27 09:38:20,971 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:22,603 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:22,614 - INFO - PASS SCAN
+2024-09-27 09:38:22,705 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:22,723 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:23,986 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:23,987 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:29,491 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:30,522 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:30,522 - INFO - PASS SCAN
+2024-09-27 09:38:32,097 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:32,097 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:35,354 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:36,611 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:36,611 - INFO - PASS SCAN
+2024-09-27 09:38:37,961 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:37,962 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:39,979 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:40,941 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:40,946 - INFO - PASS SCAN
+2024-09-27 09:38:42,234 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:42,581 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:42,581 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:43,582 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:43,588 - INFO - PASS SCAN
+2024-09-27 09:38:44,067 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:38:45,144 - ERROR - TIMEOUT SFC
+2024-09-27 09:38:45,145 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:38:45,812 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:38:45,818 - INFO - PASS SCAN
+2024-09-27 09:38:45,956 - INFO - >>> Received signal from SFC: b'H2CH7'
+2024-09-27 09:38:45,958 - INFO - >>> Received signal from SFC: b'P0'
+2024-09-27 09:38:45,962 - INFO - >>> Received signal from SFC: b'081L'
+2024-09-27 09:38:45,964 - INFO - >>> Received signal from SFC: b'0000'
+2024-09-27 09:38:45,967 - INFO - >>> Received signal from SFC: b'J'
+2024-09-27 09:38:45,969 - INFO - >>> Received signal from SFC: b'JR\r\n'
+2024-09-27 09:39:24,129 - INFO - >>> Received signal from SFC: b'1'
+2024-09-27 09:39:24,129 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:39:27,273 - INFO - >>> Received signal from SFC: b'2'
+2024-09-27 09:39:27,273 - ERROR - >>> FAIL SFC SIGNAL
+2024-09-27 09:39:28,488 - INFO - >>> Received signal from SFC: b'1'
+2024-09-27 09:39:28,488 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:43:00,639 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:00,843 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:01,001 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:01,172 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:01,359 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:01,563 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:02,463 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:02,648 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:02,835 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:03,006 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:03,195 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:03,381 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:03,537 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:07,487 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:07,672 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:07,860 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,029 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,215 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,403 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,575 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,794 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:08,978 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:09,162 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:09,347 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:09,533 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:09,724 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:09,895 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:10,098 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:10,285 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:10,459 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:10,660 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:10,817 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:11,020 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:11,191 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:11,377 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:11,565 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:21,658 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:21,861 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:22,094 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:22,282 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:22,471 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:22,658 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:22,862 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:43:23,064 - INFO - >>> Received signal from SFC: b'\r\n'
+2024-09-27 09:44:30,253 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:44:31,495 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:44:31,495 - INFO - PASS SCAN
+2024-09-27 09:44:32,858 - ERROR - TIMEOUT SFC
+2024-09-27 09:44:32,858 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:44:34,313 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:44:35,562 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:44:35,604 - INFO - PASS SCAN
+2024-09-27 09:44:36,918 - ERROR - TIMEOUT SFC
+2024-09-27 09:44:36,919 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:44:39,921 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:44:41,014 - INFO - >>> Send data to SFC: H2CH7P0081L0000JJR
+2024-09-27 09:44:41,019 - INFO - PASS SCAN
+2024-09-27 09:44:42,529 - ERROR - TIMEOUT SFC
+2024-09-27 09:44:42,530 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:51:58,316 - INFO - Open file Update.exe!
+2024-09-27 09:53:29,421 - INFO - >>> Received signal from SFC: b'1'
+2024-09-27 09:53:29,421 - INFO - >>> PASS SFC SIGNAL -------
+2024-09-27 09:53:32,329 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:53:35,975 - ERROR - ERROR SCAN
+2024-09-27 09:53:35,976 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:53:38,132 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:53:41,723 - ERROR - ERROR SCAN
+2024-09-27 09:53:41,723 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:53:44,313 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:53:48,006 - ERROR - ERROR SCAN
+2024-09-27 09:53:48,008 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:54:01,052 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:54:02,843 - ERROR - ERROR SCAN
+2024-09-27 09:54:02,844 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:54:04,309 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:54:06,062 - ERROR - ERROR SCAN
+2024-09-27 09:54:06,063 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:54:06,721 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:54:08,481 - ERROR - ERROR SCAN
+2024-09-27 09:54:08,482 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:55:16,409 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:55:18,159 - ERROR - ERROR SCAN
+2024-09-27 09:55:18,160 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:55:24,246 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:55:26,298 - ERROR - ERROR SCAN
+2024-09-27 09:55:26,299 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:55:34,293 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:55:36,173 - ERROR - ERROR SCAN
+2024-09-27 09:55:36,173 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:55:43,706 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:56:44,677 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:57:16,391 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:44,778 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:46,056 - ERROR - ERROR SCAN
+2024-09-27 09:59:46,057 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:47,288 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:48,538 - ERROR - ERROR SCAN
+2024-09-27 09:59:48,539 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:49,266 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:50,482 - ERROR - ERROR SCAN
+2024-09-27 09:59:50,484 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:51,062 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:52,293 - ERROR - ERROR SCAN
+2024-09-27 09:59:52,294 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:52,923 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:54,135 - ERROR - ERROR SCAN
+2024-09-27 09:59:54,136 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:58,069 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 09:59:59,278 - ERROR - ERROR SCAN
+2024-09-27 09:59:59,279 - INFO - >>> Send data to PLC: 2
+2024-09-27 09:59:59,922 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:00:01,141 - ERROR - ERROR SCAN
+2024-09-27 10:00:01,141 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:00:32,970 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:00:34,740 - ERROR - ERROR SCAN
+2024-09-27 10:00:34,740 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:00:35,482 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:00:37,202 - ERROR - ERROR SCAN
+2024-09-27 10:00:37,203 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:00:37,916 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:00:39,630 - ERROR - ERROR SCAN
+2024-09-27 10:00:39,633 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:00:40,039 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:00:41,841 - ERROR - ERROR SCAN
+2024-09-27 10:00:41,842 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:03:45,870 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:03:47,650 - ERROR - ERROR SCAN
+2024-09-27 10:03:47,650 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:12:45,527 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:12:47,266 - ERROR - ERROR SCAN
+2024-09-27 10:12:47,267 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:12:48,574 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:12:50,278 - ERROR - ERROR SCAN
+2024-09-27 10:12:50,279 - INFO - >>> Send data to PLC: 2
+2024-09-27 10:12:50,849 - INFO - --> ------ SCAN SIGNAL -------
+2024-09-27 10:12:52,555 - ERROR - ERROR SCAN
+2024-09-27 10:12:52,556 - INFO - >>> Send data to PLC: 2
